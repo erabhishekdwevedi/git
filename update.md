@@ -20,7 +20,7 @@ git checkout master filename.txtgit
 git  commit -m "removing file from PR"
 git push
 ```
-## Update file from origin master branch
+### Update single file from origin master branch
 
 ```
 git fetch
